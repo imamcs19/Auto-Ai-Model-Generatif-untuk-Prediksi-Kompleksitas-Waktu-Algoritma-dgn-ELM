@@ -1,4 +1,12 @@
-To add additional nodes, either:
- - drop them in this directory and add their dependencies to ../package.json
- - add their npm package name to ../package.json
-
+langkah untuk menambahkan tipe-tipe nodes dari third-party, atau yang custom atau lainnya:
+ - masukkan nama dan path dari nodes tambahaan ini pada file ../package.json
+ - contoh:
+ ----------------------------------
+ .
+ ..
+ "node-red-contrib-iot-simulator": "file:nodes/iot-device-simulator-1-mqtt/node-red-contrib-iot-simulator",
+ "node-red-contrib-mqtt-plus": "file:nodes/node-red-contrib-mqtt-plus",
+ "node-red-dashboard": "^3.1.7",
+ ..
+ .
+  ----------------------------------

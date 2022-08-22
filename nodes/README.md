@@ -2,6 +2,7 @@ langkah untuk menambahkan tipe-tipe nodes dari third-party, atau yang custom ata
  - masukkan nama dan path dari nodes tambahaan ini pada file ../package.json
  - contoh:
  ----------------------------------
+ /*
  .
  ..
  "node-red-contrib-iot-simulator": "file:nodes/iot-device-simulator-1-mqtt/node-red-contrib-iot-simulator",
@@ -9,4 +10,5 @@ langkah untuk menambahkan tipe-tipe nodes dari third-party, atau yang custom ata
  "node-red-dashboard": "^3.1.7",
  ..
  .
+ */
   ----------------------------------

@@ -1,14 +1,6 @@
 langkah untuk menambahkan tipe-tipe nodes dari third-party, atau yang custom atau lainnya:
  - masukkan nama dan path dari nodes tambahaan ini pada file ../package.json
  - contoh:
- ----------------------------------
- /*
- .
- ..
- "node-red-contrib-iot-simulator": "file:nodes/iot-device-simulator-1-mqtt/node-red-contrib-iot-simulator",
- "node-red-contrib-mqtt-plus": "file:nodes/node-red-contrib-mqtt-plus",
- "node-red-dashboard": "^3.1.7",
- ..
- .
- */
-  ----------------------------------
+ -- "node-red-contrib-iot-simulator": "file:nodes/iot-device-simulator-1-mqtt/node-red-contrib-iot-simulator",
+ -- "node-red-contrib-mqtt-plus": "file:nodes/node-red-contrib-mqtt-plus",
+ -- "node-red-dashboard": "^3.1.7",

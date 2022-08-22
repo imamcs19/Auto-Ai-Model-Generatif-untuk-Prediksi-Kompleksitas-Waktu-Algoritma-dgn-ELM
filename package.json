@@ -1,0 +1,16 @@
+{
+    "name": "node-red-heroku",
+    "version": "0.0.2",
+    "dependencies": {
+        "feedparser": "^2.2.10",
+        "https-proxy-agent": "^5.0.1",
+        "nano": "~10.x",
+        "node-red": "^2.2.2",
+        "node-red-contrib-iot-simulator": "file:nodes/iot-device-simulator-1-mqtt/node-red-contrib-iot-simulator",
+        "node-red-contrib-mqtt-plus": "file:nodes/node-red-contrib-mqtt-plus",
+        "node-red-dashboard": "^3.1.7",
+        "pg": "^8.3.0",
+        "redis": "~0.10.1",
+        "when": "~3.x"
+    }
+}

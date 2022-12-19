@@ -29,11 +29,17 @@ Big Thanks to Google Colab, Heroku & for all Ref. Semoga Bermanfaat dan Sukses u
 [4]	..
 
 
-Beberapa url untuk cara akses node-red yang sudah di-setup pada Cloud:
+Beberapa url untuk cara akses node-red yang sudah di-setup pada Heroku Cloud:
 + Flow Editor - <nama_app_anda>.herokuapp.com/editor
 + Dashboard UI - <nama_app_anda>.herokuapp.com/ui
 + Halaman Home - <nama_app_anda>.herokuapp.com
 
+
+Beberapa Langkah untuk register dan instalasi untuk mencoba node-red pada Google Colab:
++ Register ke ngrok pada htpps://dashboard.ngrok.com/auth dan https://flespi.io
++	Instalasi node-red untuk Simulator IoT di Google Colab
+	Langkah Manual instalasi dari file PPT, link: https://docs.google.com/presentation/d/1J8Fr5W8hnlNP7-c_57v7_TeYbeZjks5H/edit?usp=sharing&ouid=117226089223813103435&rtpof=true&sd=true
+	Lembar kerja Instalasi “ngrok & node-red untuk Simulator IoT” di Google Colab, link: https://drive.google.com/file/d/1J_8encK57SvKuiomXA8pZ2C9JXHKr_Vh/view?usp=sharing  
 
 ----------- Free e-Books: Buku Ajar Saya ------------
 
@@ -46,5 +52,3 @@ Beberapa url untuk cara akses node-red yang sudah di-setup pada Cloud:
 + Buku Ajar AI, Machine Learning & Deep Learning ( https://bit.ly/2Vd3kxV || http://bit.ly/3piOnnU )
 
 Semoga Bermanfaat. Aamiin. 🤓😁🤲
-
-

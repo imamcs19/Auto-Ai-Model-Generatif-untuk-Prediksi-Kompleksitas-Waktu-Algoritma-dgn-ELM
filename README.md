@@ -16,7 +16,8 @@ Penulis:
 Seminar Nasional Teknologi dan Rekayasa Informasi (SENTRIN 2022) merupakan bagian dari Filkom UB Conferences 2022 – Gedung Filkom UB, Malang
 22 November 2022 - Hybrid (Luring dan Daring via Zoom)
 
------------ Referensi Utama ------------
+----------- Daftar Referensi  ------------
+
 Big Thanks to Google Colab, Heroku & for all Ref. Semoga Bermanfaat dan Sukses untuk Semua. :D
 
 [1]	https://flespi.com/blog/node-red-flespi-for-easy-automation-of-everyday-tasks
@@ -35,6 +36,7 @@ Beberapa url untuk cara akses node-red yang sudah di-setup pada Cloud:
 
 
 ----------- Free e-Books: Buku Ajar Saya ------------
+
  To All my Students and Others:
 + Buku Ajar MK Calculus for Engineering ( https://bit.ly/3RtTVu5​ )
 + Buku Ajar MK Grafika Komputer Pada Android ( http://bit.ly/2OCQT7x​ )

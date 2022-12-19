@@ -16,15 +16,22 @@ Penulis:
 Seminar Nasional Teknologi dan Rekayasa Informasi (SENTRIN 2022) merupakan bagian dari Filkom UB Conferences 2022 – Gedung Filkom UB, Malang
 22 November 2022 - Hybrid (Luring dan Daring via Zoom)
 
-Big Thanks to Heroku & for all Ref. Semoga Bermanfaat dan Sukses untuk Semua. :D
+Big Thanks to Google Colab, Heroku & for all Ref. Semoga Bermanfaat dan Sukses untuk Semua. :D
 
 [1]	https://flespi.com/blog/node-red-flespi-for-easy-automation-of-everyday-tasks
 
-[2] https://github.com/phyunsj/iot-device-simulator-1-mqtt
+[2] https://github.com/phyunsj/iot-device-simulator-1-mqtt | https://github.com/Sevenmojoe/nodered-heroku | 
 
 [3] Cholissodin, I. and Riyandani, E., 2016. Review: A State-of-the-Art of Time Complexity (Non-Recursive and Recursive Fibonacci Algorithm). Journal of Information Technology and Computer Science, 1(1), pp.14–27. https://doi.org/10.25126/jitecs.2016112.
 
 [4]	..
+
+
+Beberapa url untuk cara akses node-red yang sudah di-setup pada Cloud:
+> Flow Editor - <nama_app_anda>.herokuapp.com/editor
+> Dashboard UI - <nama_app_anda>.herokuapp.com/ui
+> Halaman Home - <nama_app_anda>.herokuapp.com
+
 
 ----------- Free e-Books: Buku Ajar Saya ------------
  To All my Students and Others:

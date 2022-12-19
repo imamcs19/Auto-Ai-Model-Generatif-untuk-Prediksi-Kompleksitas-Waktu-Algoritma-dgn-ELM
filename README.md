@@ -29,7 +29,7 @@ Big Thanks to Google Colab, Heroku & for all Ref. Semoga Bermanfaat dan Sukses u
 [4]	..
 
 
-Beberapa url untuk cara akses node-red yang sudah di-setup pada Heroku Cloud:
+Beberapa url untuk cara akses node-red yang sudah di-setup pada Heroku Cloud (Petunjuk instalasi: https://raw.githubusercontent.com/imamcs19/Auto-Ai-Model-Generatif-untuk-Prediksi-Kompleksitas-Waktu-Algoritma-dgn-ELM/main/Part%20-2%20-%20Petunjuk%20Deploy%20App%20ke%20Heroku%20-%20DAA%20v2.11.pptx ):
 + Flow Editor - <nama_app_anda>.herokuapp.com/editor
 + Dashboard UI - <nama_app_anda>.herokuapp.com/ui
 + Halaman Home - <nama_app_anda>.herokuapp.com

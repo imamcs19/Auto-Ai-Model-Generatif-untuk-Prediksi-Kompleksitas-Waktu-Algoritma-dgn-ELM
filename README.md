@@ -8,11 +8,11 @@ Penulis:
 1. Imam Cholissodin, S.Si., M.Kom. (imamcs@ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB), Corresponding Author ✔
 2. Dahnial Syauqy, S.T., M.T. (dahnial87@ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB)
 3. Dwi Ady Firmanda (d2a.fman3da@student.ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB)
-4. Ibrahim Aji. (ibrahimaji242@student.ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB)
+4. Ibrahim Aji (ibrahimaji242@student.ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB)
 5. Edy Rahman (edhyra@student.ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB)
 6. Syazwandy Harahap (hrpwandy@student.ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB)
 7. Fernando Septino (fernandoseptino@student.ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB)
 
 Seminar Nasional Teknologi dan Rekayasa Informasi (SENTRIN 2022) merupakan bagian dari Filkom UB Conferences 2022 – Gedung Filkom UB, Malang
-22 November 2022 - Hybrid (Luring dan Dring via Zoom)
+22 November 2022 - Hybrid (Luring dan Daring via Zoom)
 
